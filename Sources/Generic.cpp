@@ -1,6 +1,6 @@
 #include "Generic.h"
 
-#include "../Debug.h"
+#include "Debug.h"
 
 namespace EagleScript
 {

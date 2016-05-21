@@ -1,6 +1,8 @@
 #ifndef _GENERIC_H
 #define _GENERIC_H 1
 
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <string>
 
 #define FLOAT_TO_STRING(s) std::to_string((long float)s)

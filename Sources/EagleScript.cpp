@@ -11,7 +11,7 @@ namespace EagleScript
 {
 	int initializeEagleScript()
 	{
-		registerDefaultFunctions();
+		//registerDefaultFunctions();
 
 		return 1;
 	}
